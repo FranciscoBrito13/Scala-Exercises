@@ -10,7 +10,7 @@ object Main {
     //println(aboveAverage(List(1.0,2.0,4.0,5.0)))
 
     val a = ("Francisco", "215276567", "francisco@gmail.com")
-    val a = ("Gui", "9123235423", "gui@gmail.com")
+    val b = ("Gui", "9123235423", "gui@gmail.com")
     val c = List(a,b)
     //println(emailWithPhone(c))
     //println(naoSei(c, "Gui"))
